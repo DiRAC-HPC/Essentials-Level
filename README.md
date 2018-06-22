@@ -1,4 +1,4 @@
-# Welcome to the DiRAC Driving Test
+# Welcome to the DiRAC Essentials Level Test
 
 
 ### Computer requirements
