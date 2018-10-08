@@ -12,7 +12,7 @@ def power2(i):
         i = i >> 1 # Do a shift. Is this a bug?
     # Print the powers.
     for x in products:
-        print x
+        print (x)
     return products
 
 if __name__ == '__main__':
